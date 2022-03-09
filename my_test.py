@@ -20,7 +20,7 @@ H = {
     # 'Accept-Encoding': 'gzip',
     # 'Accept-Language': 'zh-CN,zh;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6',
     # 'Accept-Language': 'zh-CN,zh;q=0.9',
-    # 'authorization': 'BEARER eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50IjoiMHgwOGYwNjI5N2ZjM2I4NWFjMzU0ZDBjMjIxODBjYjlmMTAxYWRlMjkxIiwiYXBwIjoiU2t5d2VhdmVyIiwiZXhwIjoxNjcwODM1OTkyLCJpYXQiOjE2MzkyOTk5OTIsIm9nbiI6Imh0dHBzOi8vcGxheS5za3l3ZWF2ZXIubmV0In0.eJoViEhGg_KubFfUYf8Gb7zuKWSd_CJjmtv4qIqAnuc'
+    # 'authorization': '',
 }
 HJ = {
     'User-Agent': U,
